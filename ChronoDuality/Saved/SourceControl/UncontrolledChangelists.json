@@ -1,0 +1,41 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/UE_Projects/ChronoDuality/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"F:/UE_Projects/ChronoDuality/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/CP/XRLOR3HVYVHJA3N9PKGXZH.uasset",
+				"F:/UE_Projects/ChronoDuality/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"F:/UE_Projects/ChronoDuality/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/YQ/N0DRU9B8J1LXM51TDM54QK.uasset",
+				"F:/UE_Projects/ChronoDuality/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/B4/ZAAWMC4VAC86Z3ZF9M5GSA.uasset",
+				"F:/UE_Projects/ChronoDuality/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/7U/WF9JLYJ46ALZBBHC8RK876.uasset",
+				"F:/UE_Projects/ChronoDuality/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/33/M1TVC2XUCTXI20GYFXYOML.uasset",
+				"F:/UE_Projects/ChronoDuality/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/7D/C7IS1GHW3PBC1WZ87I8PGJ.uasset",
+				"F:/UE_Projects/ChronoDuality/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/FM/M76FMV4WD591IX5KERYD6D.uasset",
+				"F:/UE_Projects/ChronoDuality/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/MF/2RWAIN8789ZQT6ZDVEN0QE.uasset",
+				"F:/UE_Projects/ChronoDuality/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/VH/YWDP8YV7DXXZBMUS4U75DR.uasset",
+				"F:/UE_Projects/ChronoDuality/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/IY/TQQHZ7QQ7OKYNHJVXRPLU3.uasset",
+				"F:/UE_Projects/ChronoDuality/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/0P/YZGUOXOVJD2VGKW70V5DI6.uasset",
+				"F:/UE_Projects/ChronoDuality/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/01/DIZVXZVOEJI9GTWAWUWJNA.uasset",
+				"F:/UE_Projects/ChronoDuality/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/5X/3VPCICHYYVSZE6K9XNB17Y.uasset",
+				"F:/UE_Projects/ChronoDuality/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/AG/J29LPVGV24N9UJMMCQ2LV8.uasset",
+				"F:/UE_Projects/ChronoDuality/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/GA/QB8L6N8NLVZG7BLQVQOXPK.uasset",
+				"F:/UE_Projects/ChronoDuality/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/K9/6G8ZM4K2DI9QAGMRQDFG9Y.uasset",
+				"F:/UE_Projects/ChronoDuality/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/PS/IRG9FA9CH7T0VD9OZMQM4B.uasset",
+				"F:/UE_Projects/ChronoDuality/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/JR/QYL9USSD1TZVZ4JYHQ22LE.uasset",
+				"F:/UE_Projects/ChronoDuality/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/T0/JQBOOS4SRDLM9FCDV48WM4.uasset",
+				"F:/UE_Projects/ChronoDuality/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/WJ/N5FQV4J7CU4FM2YNFQP6TF.uasset",
+				"F:/UE_Projects/ChronoDuality/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/CA/XIWYDZPDTAQ58SL5A1A5H8.uasset",
+				"F:/UE_Projects/ChronoDuality/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/X4/2NVMGJYNN4TLNZHAWAI9SE.uasset",
+				"F:/UE_Projects/ChronoDuality/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/TS/M5K78SN6DBY585TQI8IB14.uasset",
+				"F:/UE_Projects/ChronoDuality/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/3V/A46YACBQRUHR52ZHXRRAOM.uasset",
+				"F:/UE_Projects/ChronoDuality/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/1R/JOH0E2FAKDBSHGBU45P1V9.uasset",
+				"F:/UE_Projects/ChronoDuality/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/RA/PEKPT8XG0MEFF1YY5I4U0G.uasset",
+				"F:/UE_Projects/ChronoDuality/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/6H/IPF2B6IGCOKTE6WYXBWFLV.uasset",
+				"F:/UE_Projects/ChronoDuality/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/EI/G9B1GJH52JRP6W654270Q2.uasset"
+			]
+		}
+	]
+}
